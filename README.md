@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on web developement
 - 📫 How to reach me - email- someenta@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He,nickname-Ishu
 - ⚡ Fun fact: I have a Civil Engg degree.
 
 <!---
