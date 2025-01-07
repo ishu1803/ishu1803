@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement,python,js
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on web developement
-- 📫 How to reach me - email- someenta@gmail.com
+- 📫 How to reach me - email- ishantech18@gmail.com
 - 😄 Pronouns: He,nickname-Ishu
 - ⚡ Fun fact: I have a Civil Engg degree.
 
